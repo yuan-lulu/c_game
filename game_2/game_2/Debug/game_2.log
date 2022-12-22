@@ -1,0 +1,4 @@
+﻿  game_2.c
+D:\C语言学习\代码库\c_game\game_2\game_2\game_2.c(122,18): warning C4244: “函数”: 从“time_t”转换到“unsigned int”，可能丢失数据
+D:\C语言学习\代码库\c_game\game_2\game_2\game_2.c(126,8): warning C4101: “ave”: 未引用的局部变量
+  game_2.vcxproj -> D:\C语言学习\代码库\c_game\game_2\Debug\game_2.exe
